@@ -1,0 +1,1 @@
+getcharReverse.o: ../getcharReverse.c
